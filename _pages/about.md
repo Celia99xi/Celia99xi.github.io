@@ -7,8 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-AAAAAAAAAAAAAAA
-Welcome! I am a data scientist applying machine learning tools and causal
+AAAAAAAAAAAAAAA 
+
+Welcome! I am a PhD student at Department of Electronic & Electrical Engineering,
+School of Engineering,  Trinity College Dublin, The University of Dublin. Currently, 
+I focus on extreme weather impacts on power grid.
+
+I earned my Master in ecohydrology field and bachlor in electrical engineering.
+
+data scientist applying machine learning tools and causal
 inference techniques to remote sensing data. I am an affiliated
 researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
 and a research collaborator with the 
