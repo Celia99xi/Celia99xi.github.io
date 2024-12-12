@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Rob WilliamsXi"
 title_separator          : "-"
-name                     : &name "Rob Williams"
+name                     : &name "Rob WilliamsXi Wang"
 description              : &description "Postdoc in Political Science"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
