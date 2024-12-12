@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+
+Welcome! I' am Xi Wang, a PhD student in Eletrical Engineerng.
+
 Welcome! I am a data scientist applying machine learning tools and causal
 inference techniques to remote sensing data. I am an affiliated
 researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
