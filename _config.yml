@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Xi Wang"
 title_separator          : "-"
-name                     : &name "Rob WilliamsXi Wang"
+name                     : &name "Xi Wang"
 description              : &description "PhD in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Celia99xi.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Celia99xi/Celia99xi.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Xi Wang"
-  avatar           : "Xi Wang Photo.png"
+  avatar           : "Photo.png"
   bio              : "EE PhD student"
   location         :
   employer         :
